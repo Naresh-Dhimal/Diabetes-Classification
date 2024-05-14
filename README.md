@@ -13,5 +13,5 @@ Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (198
 ### Inspiration
 Can you build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?
 
-# Dataset Reference: Click Here!
+###  Dataset Reference: [Click Here!](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
